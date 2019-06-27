@@ -2,7 +2,7 @@
 This repository contains the EDA and insights on the TUN Data Challenge 2018 - Bike MS.
 
 # General Overview
-The EDA is conducted using JMP by SAS and the corresponding JMP files are located under the 'EDA' folder. A report with the detailed EDA steps and the insights gained are delineated in the PDF file located under the 'report' folder.
+The EDA is conducted using JMP by SAS and the corresponding JMP files are located under the 'EDA' folder. A report with the detailed EDA steps and the insights gained are delineated in the PDF file located under the 'Report' folder.
 
 # Executive Summary
 For easy reference, the executive summary of the EDA results are provided in the images below:
